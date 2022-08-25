@@ -1,1 +1,5 @@
-      <img src="./images/qr-code.png" alt="" />
+## Hello! 👋
+
+![Design preview for the QR code component coding challenge](./images/qr-code.png)
+
+
